@@ -1,15 +1,15 @@
 <!-- Profile README for Yamini Yannamaddi -->
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/>Hi there, I'm Yamini Yannamaddi </h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave"/> Hi there, I'm Yamini Yannamaddi</h1>
 
 <p align="center">
   <a href="mailto:yanamaddiyamini@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/yaminiyannamaddi">
+  <a href="https://github.com/yaminichowdary">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -20,6 +20,7 @@
     alt="Typing SVG"
   />
 </p>
+
 <p align="center">
   🔷 Think · 🟢 Build · 🟡 Learn · 🟠 Apply · 🟣 Transform
 </p>
@@ -63,12 +64,13 @@ I am a Full-Stack Developer experienced in modern web and cloud technologies, wi
 ### 📊 GitHub Stats (Dynamic)
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaminiyannamaddi&show_icons=true&theme=tokyonight" alt="Yamini's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminiyannamaddi&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yaminichowdary&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Yamini's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaminichowdary&layout=compact&theme=tokyonight&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <p align="left">
   <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=yaminiyannamaddi&theme=tokyonight" alt="GitHub Streak"/>
+    <img height="165" src="https://streak-stats.demolab.com?user=yaminichowdary&theme=tokyonight&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
   </a>
 </p>
+
