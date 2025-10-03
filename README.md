@@ -16,10 +16,11 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=520&color=87CEEB&center=true&vCenter=true&lines=Full-Stack+Developer;AI+%26+LLM+Explorer"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&width=520&color=87CEEB&center=true&vCenter=true&lines=Graduate+Student+at+UCM;Full-Stack+Developer;AI+%26+LLM+Explorer"
     alt="Typing SVG"
   />
 </p>
+
 
 <p align="center">
   🔷 Think · 🟢 Build · 🟡 Learn · 🟠 Apply · 🟣 Transform
